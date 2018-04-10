@@ -1,5 +1,7 @@
 # Uber-ride-sharing-simulation
 A computer model simulates ride-sharing service to see the effect of different scenarios.
+![image](mdres/ETA_efficiency_header.jpg)
+Image source: https://eng.uber.com/engineering-an-efficient-route/
 
 ## Getting Started
 
