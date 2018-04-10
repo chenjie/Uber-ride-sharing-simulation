@@ -1,0 +1,46 @@
+20 RiderRequest Eggsh3ell 5,4 3,1 1
+25 RiderRequest Fall2ow 1,1 4,5 10
+5 RiderRequest Bisq3ue 3,2 2,3 5
+20 RiderRequest Cer3ise 4,6 1,6 15
+15 RiderRequest Des4ert 5,4 3,3 5
+60 RiderRequest Egg5shell 9,4 3,1 1
+25 RiderRequest Fal6low 2,5 2,5 10
+5 DriverRequest stupid2 5,7 1
+0 DriverRequest stupid3 2,1 1
+1 DriverRequest stupid4 1,2 1
+0 DriverRequest Amaranth 1,7 3
+1 DriverRequest Bergamot 1,2 1
+2 DriverRequest Crocus 3,2 1
+3 DriverRequest Dahlia 2,1 2
+4 DriverRequest stupid1 2,2 1
+15 RiderRequest Dese5rt 5,3 4,3 5
+2 DriverRequest stupid5 3,1 1
+3 DriverRequest Dahlia6 3,6 1
+4 DriverRequest Edelweis5s 1,2 1
+5 DriverRequest Foxglov4e 2,2 1
+0 RiderRequest Almo2nd 1,5 7,5 10
+5 RiderRequest Bisq2ue 6,2 2,3 5
+10 RiderRequest Ceri7se 2,2 1,7 15
+20 RiderRequest Eg1gsh3ell 5,4 3,1 1
+25 RiderRequest Fa2ll2ow 1,1 4,5 10
+5 RiderRequest Bi1sq3ue 3,2 2,3 5
+20 RiderRequest Ce2r3ise 4,6 1,6 15
+15 RiderRequest De1s4ert 5,4 3,3 5
+60 RiderRequest Eg3g5shell 9,4 3,1 1
+25 RiderRequest Fa4l6low 2,5 2,5 10
+5 DriverRequest st2upid2 5,7 2
+0 DriverRequest stu5pid3 3,4 1
+1 DriverRequest stu6pid4 2,2 2
+7 DriverRequest Amara2nth 2,5 3
+8 DriverRequest Ber23gamot 1,2 1
+9 DriverRequest Croc12us 3,5 1
+5 DriverRequest Dahl123ia 4,7 1
+1 DriverRequest stu42pid1 8,1 1
+17 RiderRequest Des5e5rt 1,7 4,3 5
+11 DriverRequest stu6pid5 8,1 1
+4 DriverRequest Dahlia6 3,6 1
+8 DriverRequest Edelweis5s 1,2 1
+15 DriverRequest Foxglov4e 2,2 1
+1 RiderRequest Almo2222nd 1,5 7,5 10
+4 RiderRequest Bisq222ue 6,2 2,3 5
+3 RiderRequest Ceri777se 2,2 1,7 15
