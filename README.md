@@ -205,3 +205,6 @@ Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-
 
 Please click `issue` button above↑ to report any issues related to this project  
 OR you can shoot an email to <nichenjie2013@gmail.com>
+
+## License
+This project is licensed under the MIT License - see [LICENSE](LICENSE) file for more details.
